@@ -6,7 +6,7 @@
 PC installed with SCILAB. 
 
 # PROGRAM: 
-```asm
+```sci
 clc ; 
 close ; 
 M=input('Enter the Odd Filter Length ='); 
@@ -40,8 +40,8 @@ ylabel( 'Magnitude in dB');
 title('Frequency Response of FIR LPF using Hamming Window'); 
 ```
 # OUTPUT: 
-<img width="480" height="425" alt="image" src="https://github.com/user-attachments/assets/979e6fcb-bbc4-4190-a977-713d4b6836ed" />
-<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/531dbf75-b8c7-4110-bf44-b4806806e5ee" />
+<img width="358" height="405" alt="image" src="https://github.com/user-attachments/assets/63cbb6f4-2cec-466d-a149-7858d54dbe33" />
+<img width="610" height="460" alt="image" src="https://github.com/user-attachments/assets/55ca9247-227c-4251-8605-8053806517be" />
 
 
 # RESULT: 
@@ -90,8 +90,8 @@ title('Frequency Response of FIR HPF using Hamming Window');
 
 # OUTPUT: 
 
-<img width="769" height="727" alt="image" src="https://github.com/user-attachments/assets/aaaee098-43fb-46a5-850e-828d8f9d635d" />
-<img width="449" height="474" alt="image" src="https://github.com/user-attachments/assets/a8c60564-a4f8-4971-b66a-52551c331241" />
+<img width="490" height="449" alt="image" src="https://github.com/user-attachments/assets/180d0733-afe2-48b2-ba2e-3a2b1ea295ed" />
+<img width="610" height="460" alt="image" src="https://github.com/user-attachments/assets/d53170af-b78a-4469-8622-d9286acc65d3" />
 
 
 # RESULT: 
@@ -140,9 +140,9 @@ title('Frequency Response of FIR BPF using Hamming Window');
 ```
 
 # OUTPUT: 
+<img width="449" height="435" alt="image" src="https://github.com/user-attachments/assets/87dc3186-c3f5-4ed7-ac83-be176f55e545" />
 
-<img width="761" height="724" alt="image" src="https://github.com/user-attachments/assets/9c630099-e2fd-4ce0-9038-25f8bf66dd8d" />
-<img width="570" height="466" alt="image" src="https://github.com/user-attachments/assets/f8f6f043-5c8b-47c6-917e-2f3694b0f92f" />
+<img width="610" height="460" alt="image" src="https://github.com/user-attachments/assets/c5ec590e-bfbe-4b34-bbc1-edbe1fb4bb5d" />
 
 # RESULT: 
 Thus design of BAND pass FIR digital filter using-Hamming-Window waveforms were plotted and output was verified.
@@ -191,9 +191,8 @@ title('Frequency Response of FIR BSF using Hamming Window');
 
 # OUTPUT: 
 
-<img width="758" height="719" alt="image" src="https://github.com/user-attachments/assets/f9302944-99e9-4429-a62c-7fb08955bc44" />
-<img width="548" height="507" alt="image" src="https://github.com/user-attachments/assets/71e4bfe5-c647-407c-a446-18aa274d0bf0" />
-
+<img width="477" height="472" alt="image" src="https://github.com/user-attachments/assets/76cb2a4f-c3e6-426a-8cf7-7e03ae688e26" />
+<img width="610" height="460" alt="image" src="https://github.com/user-attachments/assets/d740a5bd-55fd-4ed6-a4b2-e4946a57d7d7" />
 
 # RESULT: 
 Thus design of BAND STOP FIR digital filter using-Hamming-Window waveforms were plotted and output was verified.
