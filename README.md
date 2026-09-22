@@ -194,5 +194,9 @@ title('Frequency Response of FIR BSF using Hamming Window');
 <img width="477" height="472" alt="image" src="https://github.com/user-attachments/assets/76cb2a4f-c3e6-426a-8cf7-7e03ae688e26" />
 <img width="610" height="460" alt="image" src="https://github.com/user-attachments/assets/d740a5bd-55fd-4ed6-a4b2-e4946a57d7d7" />
 
+# Manual Calculation
+
+<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/ad1bb22b-93f8-43bf-bb73-12b00396f7a5" />
+
 # RESULT: 
 Thus design of BAND STOP FIR digital filter using-Hamming-Window waveforms were plotted and output was verified.
